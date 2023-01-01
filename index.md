@@ -95,10 +95,10 @@ Il faudra modifier le design de phenix, et installer une sur tuyère de facon à
 
 Pour le bouchon (inspirée de french rocket boy):
 
-- sur le rocket candy, mettre un bouchon en bois 
-- par dessus, mettre du de la colle (pistolet à colle) jusqu’au bout *
-- Percer le moteur en largeur et en longeur puis inserrer des fils de fer de facon à retenir le bouchon lors de la combustion
-cette technique marche très bien, à continué pour les moteurs suivants
+* sur le rocket candy, mettre un bouchon en bois 
+* par dessus, mettre du de la colle (pistolet à colle) jusqu’au bout *
+* Percer le moteur en largeur et en longeur puis inserrer des fils de fer de facon à retenir le bouchon lors de la combustion
+cette technique fonctionne très bien, à continuer pour les moteurs suivants
 
 
 ## Endurance
