@@ -31,12 +31,13 @@ Maverick est un projet de fusée à boosters latéraux. Elle aura la même forme
 ### bundle
 Bundle est comme une fusée leptus, sauf qu’elle devrait posséder 2 étages s’allumant chacun leur tour, comme les fusées actueles.
 
-#### Bundle evolution
+### Bundle evolution
 Bundle evolution s’appuie sur le même principe que Bundle. Un premier étage enmène la fusée a une certaine altitude, puis se sépare de cette dernière. Le deuxième aura la forme du concorde et pourra être dirigé à distance par une humain au sol. Le premier etage retombera doucement grâce à un parachute quant au 2 eme etage volera et atterira sur le sol
 
 ## Daily map
+
 2022
-18 aout Après avoire fait du rocket candy, j’ai commencer à faire des essais qui ont été concluents. Le rocket candy brule bien et les proporstions sont stables, à ne pas changer
+18 aout Après avoir fait du rocket candy, j’ai commencé à faire des essais qui ont été concluents. Le rocket candy brule bien et les proprstions sont stables, à ne pas changer
 19 aout Après avoir fait 4à grm de rc, je l’ai introduit dans une petite fusée. Qqs dificultés a l’allumage ont été rencontré. La fusée a finalement décolé. Comme le rc n’a pas été introduit de manière homogène, la fusée a fait le hs (hand spiner) puis a explos é car il y avait pas de bouchons… (images)
 28 aout 2022 Debut du design de endurance. Plan déjà fait, dans le carquois
 2 septembre 2022 design terminé. Debut d’impression de plusieurs pièces dont coiffe, bouchon 2 et phenix/endurance. Echec de l’impression, refaire le haut.
@@ -78,28 +79,29 @@ Cependant, la tuyère en plastique fond lors de l’allumage laissant un gros tr
 J’ai peut etre une idée pour patcher ce problème. faire une “sur-tuyère” qui protège la tuyère. Elle serait faite en metal
 
 
-IV moteurs
+## IV moteurs
 
 
 Changement totale de philosophie
 Plutôt que de de faire des moteurs avec des tuyères préconsues, je vais partir sur des modèles qui peuvent se separer. Une partie centrale recevra le rc ainsi que le bouchon, puis une tuyère dera fixée sur le moteur par moyen d’accorche
 
 
-Phenix
+## Phenix
 Pour les moteurs de manière générale, il faut, avant un lancement
-Faire 1 voire 2 test de combustion simple pour voire comment se comporte le moteur et avoir un rapide apercu de son comportement lors de la combustion
+Faire 1 voir 2 test de combustion simple pour voire comment se comporte le moteur et avoir un rapide apercu de son comportement lors de la combustion
 Puis faire un test sur un band d’essai en mettre une balance dessus pour messurer la poussée au cour du temps.
 Faire ensuite un graphique sur excel et importer le graphique créé sur open rocket
 Il faudra modifier le design de phenix, et installer une sur tuyère de facon à ce qu’elle evite de fondre lors des allumages…
 
 Pour le bouchon (inspirée de french rocket boy):
--sur le rocket candy, mettre un bouchon en bois 
--par dessus, mettre du de la colle (pistolet à colle) jusqu’au bout *
--Percé le moteur en largeur et en longeur puis inserrer des fils de fer de facon à retenir le bouchon lors de la combustion
+
+- sur le rocket candy, mettre un bouchon en bois 
+- par dessus, mettre du de la colle (pistolet à colle) jusqu’au bout *
+- Percer le moteur en largeur et en longeur puis inserrer des fils de fer de facon à retenir le bouchon lors de la combustion
 cette technique marche très bien, à continué pour les moteurs suivants
 
 
-Endurance
+## Endurance
 Imprimer 2 moteurs phenix (avec leur bouchon respectif) (1 pour des essais de combustion et un autre pour tracer les caractéristiques de phenix/endurance) (plus 1 si pb il y a)
 Après 2 tets, de nombreux problèmes et information sont apparues
 Tout d’abord, le moteur procure environ 7s de poussée, ce qui est assez important, mais surtout la poussée à l’air plutôt constante et continu durant ce temps, ce qui une bonne chose
