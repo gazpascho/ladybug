@@ -1,7 +1,8 @@
 # Welcome to ladybug website 
 
-![ladybug1](IMG_8771.JPG)
- | width=50
+
+<img src="IMG_8771.JPG" width="20%">
+
 ## Introduction 
 Ladybug est le nom de mon projet ayant pour but de créer, désigner, tester et lancer des fusées artisanales.
 Elles sont faites maison de A à Z.
