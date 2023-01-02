@@ -25,7 +25,7 @@ Avancement:
  * launch ⏱
 
 ### Lotus
-Lotus est ma première “vrai fusée”. Elle va être construite pour créer un système electronique assez perfectionné pour pouvoir déclencher l’ejection de la coiffe et du parachute de facon à pouvoir récuperer lotus en au moins 1 morceau. Peut -être je devrais mettre un gps dedans pour pouvoir la localiser plus facilement.
+Lotus est ma première vraie fusée. Elle va être construite pour créer un système electronique assez perfectionné pour déclencher l’éjection de la coiffe et du parachute de facon à pouvoir récuperer lotus en au moins 1 morceau. Peut-être je devrais mettre un gps dedans pour pouvoir la localiser plus facilement.
 Je n’ai pas encore les mesures en tête, mais devrait faire plus que 40 cm de haut avec des grids fins. Elle possèdera aussi un moteur phenix/lotus dont les valeurs n’ont pas encore été fixées. 
 
 ### Maverick
