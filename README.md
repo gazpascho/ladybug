@@ -103,11 +103,13 @@ cette technique fonctionne très bien, à continuer pour les moteurs suivants
 ## Endurance
 
 Imprimer 2 moteurs phenix (avec leur bouchon respectif) (1 pour des essais de combustion et un autre pour tracer les caractéristiques de phenix/endurance) (plus 1 si pb il y a)
-Après 2 tets, de nombreux problèmes et information sont apparues
-Tout d’abord, le moteur procure environ 7s de poussée, ce qui est assez important, mais surtout la poussée à l’air plutôt constante et continu durant ce temps, ce qui une bonne chose
-Ensuite, la tuyère possède un trou bcp trop entroit ce qui engendre son ejestion dès le debut de la combustion. (voire la vidéo)
-Enfin l’allumage par mèche à fonctionner. A l’avenir pour les fusées, il faudra développer un allumage electronique ou accrocher une mèche au moteur.
-Après un test (1/11/2022) j’ai réussi à faire cela avec, mais un transformateur à été nécéssaire, pour pouvoir allumer l’alumeur, convertisseur 220V en 6V, nécéssaire pour l’allumage (malheureusement le rc été mauvais et cela c’est pas allumer coretement).
-31/12/2022 
-l’allumage electronique marche bien, mais il faut une alimentation en 220V pour un allumage.
-Il faut créé un allumeur, avec 4 pilles 1.5 volt de facon à ne pas trainer une alim de 220V quand on fait des tirs…
+
+Après 2 tests, de nombreux problèmes sont apparues
+
+* le moteur procure environ 7s de poussée, ce qui est assez important, 
+* la poussée à l’air plutôt constante et continu durant ce temps, ce qui une bonne chose
+* la tuyère possède un trou bcp trop entroit ce qui engendre son ejection dès le debut de la combustion. (voire la vidéo)
+* l’allumage par mèche fonctionne, mais à l’avenir pour les fusées, il faudra développer un allumage electronique ou accrocher une mèche au moteur.
+
+Après un test (1/11/2022) j’ai réussi à faire cela avec, mais un transformateur est nécéssaire, pour allimenter le convertisseur 220V en 6V, nécéssaire pour l’allumage (malheureusement le rc été mauvais et cela c’est pas allumer coretement).
+* Il faut créé un allumeur, avec 4 pilles 1.5 volt de facon à ne pas trainer une alim de 220V quand on fait des tirs…
