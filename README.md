@@ -1,7 +1,7 @@
 # Welcome to ladybug website 
 
 
-<img src="IMG_8772.JPG">
+<img src="IMG_8762.JPG">
 
 ## Introduction 
 Ladybug est le nom de mon projet ayant pour but de créer, désigner, tester et lancer des fusées artisanales.
