@@ -1,7 +1,7 @@
 # Welcome to ladybug website 
 
 ![ladybug engine](IMG_8764.jpg)
-![ladybug engine](IMG_8762.jpg)
+
 
 ## Introduction 
 Ladybug est le nom de mon projet ayant pour but de créer, désigner, tester et lancer des fusées artisanales.
@@ -71,20 +71,34 @@ J’ai donc repris un moteur phenix/endurance que j’ai légèrement modifié (
 * 1 novembre 2022
 J’ai légèrement modifié un phenix/endurance de facon à augmenter la taille du trou de la tuyère pour éviter une ejection comme cela à eu lieu lors du premier essai
 J’ai également découvert une nouvelle architecture possible de moteur, dont le principe réside sur le placement de la tuyère (au centre et non sur les cotés, permetant une ejection des gazs très fine et très précise).
+
 * 31 decembre 2022
 Après une grande pause du en partie à l”école, je suis continue enfin ce projet
 Après 2 tests à la campagne de moteur phenix/endurance, j’ai appris 2, 3 trucs.
 Une bonne chose, le bouchon formé à partir de colle à pistolet à colle marche et permet de maintenir les gazs
 Cependant, la tuyère en plastique fond lors de l’allumage laissant un gros trou dans le moteur, qui devient un simple cylindre bouché en haut.
 J’ai peut etre une idée pour patcher ce problème. faire une “sur-tuyère” qui protège la tuyère. Elle serait faite en metal
+Image d'un moteur ayant fondu : 
+![ladybug engine](IMG_8762.jpg)
 
+
+* 27 janvier 2023
+Comme faire une fusée entièrement en 3D, je suis résout a devoire utiliser du metal. En effet, sur les essais, on remarque bien que la tuyère se consumme et fond sous la chaleur et l'intensité des gazs exprimés. L'idéal serait d'avoir une surtuyère, comme présenté précedement, de facon a éviter qu la tuyère fonde. Applelons cette pièce le shield. Idéalement, elle devrait épouser la forme de la tuyère. Phenix serait alors imprimer en 2 parties, coupées dans le verticale. Comme cela il ne reste qu'a coller les 2 parties de phenix autour du shield.
+Il faudrait donc la faire à l'aide d'une friaseuse, mais je pense que je vais devoir la faire en bois car je n'ai pas de friaseuse à la maison...
+
+### to do list
+designer le shield
+demander à papa d'imprimer le shield grâce à une fraiseuse présente à son travail. 
+Une fois que le moteur est opérationel, faire un allumage statique sur la balance, pour en dégager un graphique, donnant la poussée au cours du temps et ainsi modéliser la fusée sur open rocket
+
+
+Essayer une mise à feu 'un phenix sans tuyère, pour voire  si cela est vraiment nécéssaire.
 
 ## IV moteurs
 
-Plutôt que de de faire des moteurs avec des tuyères préconsues, je vais partir sur des modèles qui peuvent se separer. Une partie centrale recevra le rc ainsi que le bouchon, puis une tuyère dera fixée sur le moteur par moyen d’accorche
-
 
 ## Phenix
+![ladybug engine](IMG_8766.jpg)
 
 Pour les moteurs de manière générale, il faut, avant un lancement
 Faire 1 voir 2 test de combustion simple pour voire comment se comporte le moteur et avoir un rapide apercu de son comportement lors de la combustion
