@@ -1,5 +1,6 @@
 # Welcome to ladybug website 
 
+![ladybug engine](IMG_8764.jpg)
 ![ladybug engine](IMG_8762.jpg)
 
 ## Introduction 
