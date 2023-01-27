@@ -2,6 +2,7 @@
 
 
 <img src="IMG_8762.jpg"> 
+![ladybug engine](IMG_8762.jpg)
 
 ## Introduction 
 Ladybug est le nom de mon projet ayant pour but de créer, désigner, tester et lancer des fusées artisanales.
