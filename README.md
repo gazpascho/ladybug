@@ -1,7 +1,5 @@
 # Welcome to ladybug website 
 
-
-<img src="IMG_8762.jpg"> 
 ![ladybug engine](IMG_8762.jpg)
 
 ## Introduction 
