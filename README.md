@@ -108,7 +108,7 @@ Après 2 tests, de nombreux problèmes sont apparues
 * le moteur procure environ 7s de poussée, ce qui est assez important, 
 * la poussée à l’air plutôt constante et continu durant ce temps, ce qui une bonne chose
 * la tuyère possède un trou bcp trop entroit ce qui engendre son ejection dès le debut de la combustion. (voire la vidéo)
-* l’allumage par mèche fonctionne, mais à l’avenir pour les fusées, il faudra développer un allumage electronique ou accrocher une mèche au moteur.
+* l’allumage par mèche fonctionne, mais à l’avenir pour les fusées, il faut développer un allumage électrique ou accrocher une grande mèche au moteur.
 
-Après un test (1/11/2022) j’ai réussi à faire cela avec, mais un transformateur est nécéssaire, pour allimenter le convertisseur 220V en 6V, nécéssaire pour l’allumage (malheureusement le rc été mauvais et cela c’est pas allumer coretement).
-* Il faut créé un allumeur, avec 4 pilles 1.5 volt de facon à ne pas trainer une alim de 220V quand on fait des tirs…
+Après un test (1/11/2022) j’ai réussi à faire cela avec un transformateur (convertisseur 220V en 6V nécéssaire). Il assure l’allumage.
+* Il faut créer un allumeur, avec 4 piles 1.5 Volt, bien plus mobile qu'une rallonge 220V
