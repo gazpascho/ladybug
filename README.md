@@ -5,6 +5,8 @@
 Ladybug est le nom de mon projet ayant pour but de créer, désigner, tester et lancer des fusées artisanales.
 Elles sont faites maison de A à Z.
 
+##  Les fichiers sont disponible ici https://github.com/gazpascho/ladybug
+
 ## Modèles 
 
 ### Endurance
